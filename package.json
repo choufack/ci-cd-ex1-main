@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon ./dist/app.js",
+    "dev": "nodemon ./",
     "sass:watch": "sass --watch ./src/styles:./public/css",
     "sass:build": "sass ./src/styles:./public/css",
     "start": "node ./dist/app.js",
