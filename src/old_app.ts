@@ -16,7 +16,7 @@ interface User {
   products: Product[];
 }
 
-  try user: User = {
+const user: User = {
   firstName: "John",
   lastName: "Doe",
   age: 30,
